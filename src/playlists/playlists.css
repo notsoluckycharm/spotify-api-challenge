@@ -1,0 +1,41 @@
+.playlists {
+  width: 35%;
+  display: block;
+  float:left;
+}
+.playlists_add {
+  border: 1px solid black;
+  display: block;
+}
+.playlists__item {
+  width: 100%;
+}
+.playlist__container {
+  width: 100%;
+}
+.playlist__item {
+  width: 100%;
+}
+.playlist__header {
+  width: 100%;
+  clear: both;
+  border-bottom: 1px solid black;
+}
+.playlist__header div {
+  width: 33%;
+  float: left;
+}
+.playlist__tracks {
+  padding-left: 5%;
+  width: 95%;
+  float: left;
+  padding: 10px 0px;
+}
+.track_name {
+  width: 70%;
+  float: left;
+}
+.delete_track {
+  width: 30%;
+  float: left;
+}
